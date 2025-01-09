@@ -1,1 +1,1 @@
-# odin-admin-dashboard
+This project consisted on creating an Admin Dashboard with everything we've learned, although we could only use grid (no flexbox allowed).
